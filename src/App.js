@@ -14,7 +14,7 @@ function App({ signOut }) {
     <View className="App">
       <Card>
         <Image src={logo} className="App-logo" alt="logo" />
-        <Heading level={1}>We now have Auth--Saurabh12121!</Heading>
+        <Heading level={1}>We now have Authorization!</Heading>
       </Card>
       <Button onClick={signOut}>Sign Out</Button>
     </View>
